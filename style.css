@@ -2,4 +2,6 @@ div{
     
     background-color: aqua;
     color: blue;
+    margin: 10px;
+    padding: 5px;
 }
